@@ -49,3 +49,22 @@ Unlike early-stage projects that are still searching for product-market fit, Ref
 Technology is the next step in expanding our existing impact.
 
 Our long-term vision is to build an international educational technology platform capable of serving thousands of students simultaneously, democratizing specialized knowledge while improving the quality, accessibility, and personalization of education through artificial intelligence.
+
+
+How will you use the subscription for your project?*
+
+We plan to use the subscription in two main areas of our business.
+
+The first is focused on our internal operations. We want to improve customer service, better understand what our students actually need, identify their main challenges, and use this information to improve both our support and the educational content we provide. We also want to develop our own internal tools to automate processes and make our team more efficient.
+
+The second area, and one we are particularly excited about, is the development of our own learning platform. We want to create an environment where students can go beyond simply watching recorded classes. The platform will combine videos, written content, interactive games, learning paths, quizzes, and gamification.
+
+We also want to incorporate Challenge-Based Learning into our methodology, encouraging students to solve real-world problems while learning. In our field, this means giving students practical challenges related to their own homes and environments, allowing them to apply what they learn in their everyday lives.
+
+We have already developed games, learning paths, quizzes, and AI agents to support our students in their daily lives and throughout their learning journey. However, we believe there is still a lot of room to explore what AI can bring to education.
+
+The subscription would help us accelerate the development of these solutions, experiment with new ideas, and create a more personalized, interactive, and engaging learning experience.
+
+With approximately 1,000 active students, we already have a community with whom we can test, improve, and validate these solutions based on real needs and feedback.
+
+Ultimately, we want technology to help us become better educators and give our students more opportunities to learn, practice, and develop their knowledge independently.
